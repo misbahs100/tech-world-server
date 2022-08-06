@@ -155,7 +155,7 @@ client.connect(err => {
 
 
 app.get('/', (req, res) => {
-  res.send('Welcome to Webpage Service Database!')
+  res.send('Welcome to TECH WORLD Database!')
 })
 
 const port = process.env.PORT || 5000;
